@@ -4,15 +4,21 @@ Short-drama downloader for Windows — Hongguo, Feihong TV, Guazi TV, Bilibili T
 
 Drama Meaw uses your **Meaw Studio license key** — the same key works on the same PC with no extra seat.
 
-## Download
+## Install
 
-**[⬇ Download Drama Meaw for Windows](https://github.com/savatangkorreal-wq/Drama-Meaw/releases/latest/download/DramaMeaw-Windows-x64.zip)**
+**[⬇ Download DramaMeaw-Setup.exe](https://github.com/savatangkorreal-wq/Drama-Meaw/releases/latest/download/DramaMeaw-Setup.exe)**
 
-1. Extract the zip anywhere (for example `D:\Drama Meaw`).
-2. Double-click **DramaMeaw.vbs**. (Optional: right-click `Create_Desktop_Shortcut.ps1` → *Run with PowerShell* for a desktop icon.)
+1. Run **DramaMeaw-Setup.exe** and click **Install** (it downloads about 314 MB; no admin rights needed).
+2. Open **Drama Meaw** from the Start menu or the desktop icon.
 3. Enter your Meaw Studio license key.
 
-Updating from an earlier version: download **DramaMeaw-App-Update.zip** from the [latest release](https://github.com/savatangkorreal-wq/Drama-Meaw/releases/latest), close Drama Meaw (`Stop_DramaMeaw.bat`) and extract it over your existing folder.
+Closing the Drama Meaw window closes the app. When a newer version is out, the app shows a banner — run Setup again to update.
+
+**Uninstall:** Windows Settings → Apps → Drama Meaw → Uninstall. Your downloaded videos and license key are kept.
+
+### Portable (no install)
+
+Download **[DramaMeaw-Windows-x64.zip](https://github.com/savatangkorreal-wq/Drama-Meaw/releases/latest/download/DramaMeaw-Windows-x64.zip)**, extract it anywhere and double-click **DramaMeaw.exe**.
 
 No key yet? Get one at **[meawstudio.tech](https://meawstudio.tech)**.
 
